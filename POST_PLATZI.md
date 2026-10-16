@@ -17,9 +17,9 @@ El agente entiende la intención, extrae monto, categoría y fecha, y ejecuta un
 - **Tool-calling con `$fromAI()`:** el modelo rellena los parámetros de cada herramienta con tipos definidos (string/number).
 
 **🛠️ Herramientas usadas**
-n8n · Nodo **AI Agent (Tools Agent)** · **Google Gemini 2.5 Flash** (gratis) · **Window Buffer Memory** · Tool **Google Sheets** (append de gastos) · Tool **Google Calendar** (create de eventos) · Chat Trigger nativo. Sin credenciales expuestas en el JSON.
+n8n · Nodo **AI Agent (Tools Agent)** · **Google Gemini 3.1 Flash Lite** (gratis) · **Window Buffer Memory** · Tool **Google Sheets** (append de gastos) · Tool **Google Calendar** (create de eventos) · Chat Trigger nativo. Sin credenciales expuestas en el JSON.
 
-**📹 Demo (45 s):** gasto simple → recordatorio → mensaje combinado + corrección usando memoria.
+**📹 Demo (1:46):** https://youtu.be/LGV56TEeTR8 — gasto simple → recordatorio → mensaje combinado + corrección usando memoria.
 🔗 Workflow JSON importable: https://github.com/atapia9/smart-expense-task-concierge-n8n
 
 **🙌 ¿Te sirvió?** Si te gustó la idea, **déjame tu voto y un comentario** con qué otra herramienta le conectarías (Gmail, Notion, WhatsApp…). ¡Gracias por apoyar! 💚
