@@ -22,6 +22,6 @@ n8n · Nodo **AI Agent (Tools Agent)** · **Google Gemini 3.1 Flash Lite** (grat
 **📹 Demo (1:46):** https://youtu.be/LGV56TEeTR8 — gasto simple → recordatorio → mensaje combinado + corrección usando memoria.
 🔗 Workflow JSON importable: https://github.com/atapia9/smart-expense-task-concierge-n8n
 
-**🙌 ¿Te sirvió?** Si te gustó la idea, **déjame tu voto y un comentario** con qué otra herramienta le conectarías (Gmail, Notion, WhatsApp…). ¡Gracias por apoyar! 💚
+**🙌 ¿Te sirvió?** Si te gustó la idea, **déjame tu voto y un comentario** con qué otra herramienta le conectarías (Gmail, Notion, WhatsApp…). ¡Gracias por apoyar! 💚 AQUI>>> https://platzi.com/comentario/5732465/ <<<AQUI
 
 #AgentBuilders #n8n #Platzi #IA #Automatización
