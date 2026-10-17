@@ -1,6 +1,6 @@
 # Smart Expense & Task Concierge — Reporte técnico, de arquitectura y de oportunidades de negocio
 
-> **Divulgación de uso de IA:** Este material fue elaborado con asistencia de Claude (Anthropic) y revisado por Jesús Armando Tapia Gallegos.
+> **Divulgación de uso de IA:** Este material fue elaborado con asistencia de Claude (Anthropic) y revisado por Jesus Armando Tapia Gallegos.
 
 | | |
 |---|---|
